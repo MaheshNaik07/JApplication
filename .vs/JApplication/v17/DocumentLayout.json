@@ -1,0 +1,463 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mahesh\\Demoapp\\JApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\repositories\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\dto\\joblistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\joblistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\repositories\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\dto\\jobdetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\jobdetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\dto\\addlocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\addlocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\dto\\joblistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\joblistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\repositories\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\dto\\addjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\addjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\dto\\adddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\adddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\repositories\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|c:\\mahesh\\demoapp\\japplication\\webapplication1\\migrations\\20240518013940_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704E8C3-CAF7-4536-88F6-4BB574979035}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240518013940_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Job.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Models\\Job.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Job.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:12:35.634Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:05:23.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocationsController.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Controllers\\LocationsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LocationsController.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Controllers\\LocationsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\LocationsController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T03:31:17.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobListRequest.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\JobListRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\JobListRequest.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\JobListRequest.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\JobListRequest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:16:28.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Repositories\\JobRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\JobRepository.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Repositories\\JobRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\JobRepository.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAswGYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:29:53.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\JobsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:32:41.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwDgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:31:19.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA2wCMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T01:45:20.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:03:41.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Repositories\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\IJobRepository.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Repositories\\IJobRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\IJobRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:05:10.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LocationDto.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\LocationDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\LocationDto.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\LocationDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\LocationDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T03:37:55.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobDetailsResponse.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\JobDetailsResponse.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\JobDetailsResponse.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\JobDetailsResponse.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\JobDetailsResponse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:04:27.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddLocationDto.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\AddLocationDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\AddLocationDto.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\AddLocationDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\AddLocationDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T03:37:17.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\JobDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\JobDto.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\JobDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\JobDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:27:16.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobListResponse.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\JobListResponse.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\JobListResponse.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\JobListResponse.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\JobListResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:10:17.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\AddDepartmentDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\AddDepartmentDto.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\AddDepartmentDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\AddDepartmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:15:05.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\DepartmentDto.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\DepartmentDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\DepartmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:40:14.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LocationRepository.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Repositories\\LocationRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\LocationRepository.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Repositories\\LocationRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\LocationRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T03:18:54.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddJobDto.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\AddJobDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\AddJobDto.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\DTO\\AddJobDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\AddJobDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:28:25.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Repositories\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Repositories\\IDepartmentRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\IDepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:30:09.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Location.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Models\\Location.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Location.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T03:35:53.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T01:04:13.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ILocationRepository.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Repositories\\ILocationRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\ILocationRepository.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Repositories\\ILocationRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\ILocationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T03:18:32.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240518013940_Initial_Migration.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Migrations\\20240518013940_Initial_Migration.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240518013940_Initial_Migration.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Migrations\\20240518013940_Initial_Migration.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240518013940_Initial_Migration.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T01:39:40.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T01:24:52.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Department.cs",
+              "ToolTip": "C:\\Mahesh\\Demoapp\\JApplication\\WebApplication1\\Models\\Department.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T01:18:31.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
